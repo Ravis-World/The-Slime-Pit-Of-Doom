@@ -5,7 +5,7 @@ A looping, cartoon-style slime animation game made in PenguinMod.
 ---
 
 ## Instructions
-Choose a pit type according to the legend in **Notes and Credits**.  
+Choose a pit type according to the legend.  
 Selecting any other number will immediately reset the game.
 
 Next, decide whether you want grunting and straining dialogue enabled for the character’s feet (default is **No**).
