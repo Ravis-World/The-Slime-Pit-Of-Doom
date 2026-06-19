@@ -26,9 +26,9 @@ There is no win condition — the experience is designed as an observation-based
 ---
 
 ## Pit Legend
-1 — Slime  
-2 — Mud  
-3 — Tar  
+1 - Slime  
+2 - Mud  
+3 - Tar  
 4 - School Glue  
 5 - Rat Glue  
 6 - Bubble-gum  
