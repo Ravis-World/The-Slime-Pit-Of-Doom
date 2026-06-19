@@ -29,6 +29,12 @@ There is no win condition — the experience is designed as an observation-based
 1 — Slime  
 2 — Mud  
 3 — Tar  
+4 - School Glue  
+5 - Rat Glue  
+6 - Bubble-gum  
+7 - Honey  
+8 - Molasses  
+9 - Stinging Alien Goo  
 with more to come...
 
 Each pit has different resistance, stretch behaviour, and sound effects.
