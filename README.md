@@ -37,8 +37,6 @@ There is no win condition — the experience is designed as an observation-based
 9 - Stinging Alien Goo  
 with more to come...
 
-Each pit has different resistance, stretch behaviour, and sound effects.
-
 ---
 
 ## Audio
